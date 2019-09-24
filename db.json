@@ -2,14 +2,56 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Big Duck Toys",
+      "price": "Rp 136.500"      
     },
     {
       "id": 2,
-      "title": "TES"
-    }
+      "title": "Big Horse",
+      "price": "Rp 191.000"
+    },
+    {
+      "id": 3,
+      "title": "Boneka Tangan",
+      "price": "Rp 36.000"      
+    },
+     {
+      "id": 4,
+      "title": "Puzzle Huruf",
+      "price": "Rp 30.500"      
+    },
+    {
+      "id": 5,
+      "title": "Puzzle Cat",
+      "price": "Rp 18.000"      
+    },
+    {
+      "id": 6,
+      "title": "Wooden Fishing Frog",
+      "price": "Rp 70.000"      
+    },
+    {
+      "id": 7,
+      "title": "Puzzle Mengenal Warna",
+      "price": "Rp 35.500"      
+    },
+    {
+      "id": 8,
+      "title": "Puzzle Mengenal Warna",
+      "price": "Rp 35.500"      
+    },
+    {
+      "id": 9,
+      "title": "Puzzle Mengenal Warna",
+      "price": "Rp 35.500"      
+    },
+    {
+      "id": 10,
+      "title": "Puzzle Mengenal Warna",
+      "price": "Rp 35.500"      
+    },
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Produk"
   }
 }
