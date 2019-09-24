@@ -69,6 +69,11 @@
       "id": 14,
       "title": "City Construction",
       "price": "Rp 85.000"      
+    },
+     {
+      "id": 15,
+      "title": "Miniatur Rambu Lalu Lintas",
+      "price": "Rp 125.000"      
     }
   ],
   "profile": {
